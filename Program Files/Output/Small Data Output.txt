@@ -1,0 +1,26 @@
+##########################################################################################
+Total Program time taken: 416.002
+
+Average processing time for Primes function using Simplex Pipes: 0.633
+Average processing time for Encrypt function using Simplex Pipes: 0.633
+Total processing time for all functions using Simplex Pipes: 126.641
+Percentage of processing time used for Primes function using Simplex Pipes: 0.500
+Percentage of processing time used for Encrypt function using Simplex Pipes: 0.500
+Percentage of processing time used for all functions using Simplex Pipes: 0.304
+
+Average processing time for Primes function using a Duplex Pipe: 0.616
+Average processing time for Encrypt function using a Duplex Pipe: 0.616
+Total processing time for all functions using a Duplex Pipe: 123.299
+Percentage of processing time used for Primes function using a Duplex Pipe: 0.500
+Percentage of processing time used for Encrypt function using a Duplex Pipe: 0.500
+Percentage of processing time used for all functions using a Duplex Pipe: 0.296
+
+Average processing time for Primes function using a Multiprocessing Pool: 0.852
+Average processing time for Encrypt function using a Multiprocessing Pool: 0.852
+Total processing time for all functions using a Multiprocessing Pool: 170.399
+Percentage of processing time used for Primes function using a Multiprocessing Pool: 0.500
+Percentage of processing time used for Encrypt function using a Multiprocessing Pool: 0.500
+Percentage of processing time used for all functions using a Multiprocessing Pool: 0.410
+##########################################################################################
+
+Processing complete, closing file.
