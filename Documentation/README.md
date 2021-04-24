@@ -11,4 +11,4 @@ This project is intended to be the pinnacle of my bachelor's degree work.  This 
 - Test Plan with Results.docx – This is the Test Plan document that outlined the testing procedure and chronicled the results of the testing.
 
 ## License
-[MIT License](LICENSE)
+[MIT License](./LICENSE)
