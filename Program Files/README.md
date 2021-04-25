@@ -14,4 +14,4 @@ This project is intended to be the pinnacle of my bachelor's degree work.  This 
 - simplexPipes.py – This is the file imported into main to run the two functions using simplex pipes
 
 ## License
-[MIT License](LICENSE)
+[MIT License](../LICENSE)
