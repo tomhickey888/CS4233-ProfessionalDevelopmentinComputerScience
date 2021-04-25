@@ -9,4 +9,4 @@ This project is intended to be the pinnacle of my bachelor's degree work.  This 
 - Small Data Output.txt – This is the output file generated in the first round of testing outlined in the Test Plan with Results file.
 
 ## License
-[MIT License](LICENSE)
+[MIT License](../../LICENSE)
