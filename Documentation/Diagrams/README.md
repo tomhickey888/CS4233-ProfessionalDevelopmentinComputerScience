@@ -12,4 +12,4 @@ This project is intended to be the pinnacle of my bachelor's degree work.  This 
 - Use Case #2.jpeg – This is the use case diagram that outlines the interactions between the programmer and the software given that the programmer is trying to determine which multiprocessing module tested in the software will be best for their use in an outside project.  Also found in the Requirements Analysis document.
 
 ## License
-[MIT License](./../LICENSE)
+[MIT License](../../LICENSE)
