@@ -2,7 +2,7 @@
  CS4233 - Professional Development in Computer Science
 
 ## Introduction
-This project is intended to be the pinaccle of my bachellor's degree work.  This purpose of this project was to design software to perform CPU-intensive tasks in parallel using three different aspects of the multiprocessing module in Python.  The three methods of communication between the main process and the subprocesses that were evaluated were simplex pipes, duplex pipes, and the multiprocessing pool module.  By recording the processing time of each the efficiency of the three different methods of communication can be measured quantitatively.
+This project is intended to be the pinnacle of my bachelor's degree work.  This purpose of this project was to design software to perform CPU-intensive tasks in parallel using three different aspects of the multiprocessing module in Python.  The three methods of communication between the main process and the subprocesses that were evaluated were simplex pipes, duplex pipes, and the multiprocessing pool module.  By recording the processing time of each the efficiency of the three different methods of communication can be measured quantitatively.
 
 ## Table of Contents
 - [Documentation](Documentation/README.md)
@@ -11,12 +11,24 @@ This project is intended to be the pinaccle of my bachellor's degree work.  This
 ## Usage Instructions
 This program can be utilized by opening the main.py file in a Python IDE.  Special attention needs to be paid to the following variables before running the script:
 
+
 ```
-    min: This is the minimum number passed into the encryption and primes functions.  Adjust with max to determine the range processed and size of data passed.
-    max: This is the maximum number passed into the encryption and primes functions.  Adjust with min to determine the range processed and size of data passed.
-    loops: This is the number of times that each of the three multiprocessing functions will be executed in each loop of the main script.
-    mainLoops: This is the number of loops of the main script will be executed.
+    min
 ```
+This is the minimum number passed into the encryption and primes functions.  Adjust with max to determine the range processed and size of data passed.
+```
+    max
+```
+This is the maximum number passed into the encryption and primes functions.  Adjust with min to determine the range processed and size of data passed.
+```
+    loops
+```
+This is the number of times that each of the three multiprocessing functions will be executed in each loop of the main script.
+```
+    mainLoops
+```
+This is the number of loops of the main script will be executed.
+
 
 After adjusting those variables, simply run the main.py script.  The console will display the current status of the script as it cycles through the various functions that it contains.  After the script is finished, check the Output directory for a text file that will contain a summary of the data measured.  The filename of the output file will be automatically generated as a timestamp for when the script was run.
 
