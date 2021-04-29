@@ -33,7 +33,7 @@ if __name__ == "__main__":
     duplexPrimes = []
     multiPrimes = []
 
-    #Lists to store output from each different type of multiprocessing for the Primes function
+    #Lists to store output from each different type of multiprocessing for the Encrypt function
     simplexEncrypt = []
     duplexEncrypt = []
     multiEncrypt = []
